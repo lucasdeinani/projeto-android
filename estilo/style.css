@@ -57,10 +57,8 @@ header > p {
     font-size: 1.2em;
     color: var(--cor-padrao);
     max-width: 600px;
-    padding-left: 10px;
-    padding-right: 10px;
+    padding: 0px 10px 50px 10px;
     margin: auto;
-    padding-bottom: 50px;
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.315);
 }
 
